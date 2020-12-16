@@ -1,0 +1,22 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "CRUD con paquete npm con MYSQL ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "sql",
+    "mysql",
+    "backend",
+    "node.js"
+  ],
+  "author": "Cristhian Luna",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "mysql": "^2.18.1"
+  }
+}
